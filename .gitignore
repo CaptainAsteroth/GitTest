@@ -1,0 +1,13 @@
+.vscode
+.vscode/*
+*/metadata/*
+*/PackageCache/*
+*/ScriptAssemblies/*
+*/ShaderCache/*
+*/StateCache/*
+*/cache/*
+*/Logs/*
+*.log
+*/Packages/*
+Temp/*
+Temp/
